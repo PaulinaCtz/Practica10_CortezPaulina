@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916781250316",
+    "project_id": "practica10-4541b",
+    "storage_bucket": "practica10-4541b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916781250316:android:507b3e4dd3f4c77ab87b29",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.practica10_cortezpaulina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916781250316-irfu0rlfqcqg8vsdfqgf99e5ng80rs9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Am0ERW05unBcbeyPS7SJElTMKbk8Pl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916781250316-irfu0rlfqcqg8vsdfqgf99e5ng80rs9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
